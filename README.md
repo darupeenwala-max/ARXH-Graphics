@@ -12,7 +12,7 @@ oversized typography, asymmetric layouts and subtle motion.
 
 After enabling GitHub Pages, your website will be available at:
 
-https://ARXH Graphics.github.io/graphic-designer-portfolio/
+https://ARXH-Graphics.github.io/graphic-designer-portfolio/
 
 Replace `ARXH Graphics` with your GitHub username.
 
